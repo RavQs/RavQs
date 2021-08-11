@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\LittleBased\LittleBased\bin\Debug\netcoreapp3.1\LittleBased.exe
+C:\Users\ASUS\source\repos\LittleBased\LittleBased\bin\Debug\netcoreapp3.1\LittleBased.deps.json
+C:\Users\ASUS\source\repos\LittleBased\LittleBased\bin\Debug\netcoreapp3.1\LittleBased.runtimeconfig.json
+C:\Users\ASUS\source\repos\LittleBased\LittleBased\bin\Debug\netcoreapp3.1\LittleBased.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\LittleBased\LittleBased\bin\Debug\netcoreapp3.1\LittleBased.dll
+C:\Users\ASUS\source\repos\LittleBased\LittleBased\bin\Debug\netcoreapp3.1\LittleBased.pdb
+C:\Users\ASUS\source\repos\LittleBased\LittleBased\obj\Debug\netcoreapp3.1\LittleBased.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\LittleBased\LittleBased\obj\Debug\netcoreapp3.1\LittleBased.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\LittleBased\LittleBased\obj\Debug\netcoreapp3.1\LittleBased.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\LittleBased\LittleBased\obj\Debug\netcoreapp3.1\LittleBased.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\LittleBased\LittleBased\obj\Debug\netcoreapp3.1\LittleBased.dll
+C:\Users\ASUS\source\repos\LittleBased\LittleBased\obj\Debug\netcoreapp3.1\LittleBased.pdb
+C:\Users\ASUS\source\repos\LittleBased\LittleBased\obj\Debug\netcoreapp3.1\LittleBased.genruntimeconfig.cache
