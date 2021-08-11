@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\BubblesortAndMediana\BubblesortAndMediana\bin\Debug\netcoreapp3.1\BubblesortAndMediana.exe
+C:\Users\ASUS\source\repos\BubblesortAndMediana\BubblesortAndMediana\bin\Debug\netcoreapp3.1\BubblesortAndMediana.deps.json
+C:\Users\ASUS\source\repos\BubblesortAndMediana\BubblesortAndMediana\bin\Debug\netcoreapp3.1\BubblesortAndMediana.runtimeconfig.json
+C:\Users\ASUS\source\repos\BubblesortAndMediana\BubblesortAndMediana\bin\Debug\netcoreapp3.1\BubblesortAndMediana.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\BubblesortAndMediana\BubblesortAndMediana\bin\Debug\netcoreapp3.1\BubblesortAndMediana.dll
+C:\Users\ASUS\source\repos\BubblesortAndMediana\BubblesortAndMediana\bin\Debug\netcoreapp3.1\BubblesortAndMediana.pdb
+C:\Users\ASUS\source\repos\BubblesortAndMediana\BubblesortAndMediana\obj\Debug\netcoreapp3.1\BubblesortAndMediana.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\BubblesortAndMediana\BubblesortAndMediana\obj\Debug\netcoreapp3.1\BubblesortAndMediana.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\BubblesortAndMediana\BubblesortAndMediana\obj\Debug\netcoreapp3.1\BubblesortAndMediana.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\BubblesortAndMediana\BubblesortAndMediana\obj\Debug\netcoreapp3.1\BubblesortAndMediana.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BubblesortAndMediana\BubblesortAndMediana\obj\Debug\netcoreapp3.1\BubblesortAndMediana.dll
+C:\Users\ASUS\source\repos\BubblesortAndMediana\BubblesortAndMediana\obj\Debug\netcoreapp3.1\BubblesortAndMediana.pdb
+C:\Users\ASUS\source\repos\BubblesortAndMediana\BubblesortAndMediana\obj\Debug\netcoreapp3.1\BubblesortAndMediana.genruntimeconfig.cache
