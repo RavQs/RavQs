@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\CAPSLOCKON\CAPSLOCKON\bin\Debug\CAPSLOCKON.exe.config
+C:\Users\ASUS\source\repos\CAPSLOCKON\CAPSLOCKON\bin\Debug\CAPSLOCKON.exe
+C:\Users\ASUS\source\repos\CAPSLOCKON\CAPSLOCKON\bin\Debug\CAPSLOCKON.pdb
+C:\Users\ASUS\source\repos\CAPSLOCKON\CAPSLOCKON\obj\Debug\CAPSLOCKON.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\CAPSLOCKON\CAPSLOCKON\obj\Debug\CAPSLOCKON.Form1.resources
+C:\Users\ASUS\source\repos\CAPSLOCKON\CAPSLOCKON\obj\Debug\CAPSLOCKON.Properties.Resources.resources
+C:\Users\ASUS\source\repos\CAPSLOCKON\CAPSLOCKON\obj\Debug\CAPSLOCKON.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\CAPSLOCKON\CAPSLOCKON\obj\Debug\CAPSLOCKON.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CAPSLOCKON\CAPSLOCKON\obj\Debug\CAPSLOCKON.exe
+C:\Users\ASUS\source\repos\CAPSLOCKON\CAPSLOCKON\obj\Debug\CAPSLOCKON.pdb

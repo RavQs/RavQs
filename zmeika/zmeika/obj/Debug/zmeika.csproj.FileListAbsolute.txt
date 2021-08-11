@@ -1,0 +1,10 @@
+C:\Users\ASUS\source\repos\zmeika\zmeika\bin\Debug\zmeika.exe.config
+C:\Users\ASUS\source\repos\zmeika\zmeika\bin\Debug\zmeika.exe
+C:\Users\ASUS\source\repos\zmeika\zmeika\bin\Debug\zmeika.pdb
+C:\Users\ASUS\source\repos\zmeika\zmeika\obj\Debug\zmeika.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\zmeika\zmeika\obj\Debug\zmeika.Form1.resources
+C:\Users\ASUS\source\repos\zmeika\zmeika\obj\Debug\zmeika.Properties.Resources.resources
+C:\Users\ASUS\source\repos\zmeika\zmeika\obj\Debug\zmeika.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\zmeika\zmeika\obj\Debug\zmeika.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\zmeika\zmeika\obj\Debug\zmeika.exe
+C:\Users\ASUS\source\repos\zmeika\zmeika\obj\Debug\zmeika.pdb

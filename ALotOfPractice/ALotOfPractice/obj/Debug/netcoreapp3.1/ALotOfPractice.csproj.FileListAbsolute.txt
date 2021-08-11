@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\ALotOfPractice\ALotOfPractice\bin\Debug\netcoreapp3.1\ALotOfPractice.exe
+C:\Users\ASUS\source\repos\ALotOfPractice\ALotOfPractice\bin\Debug\netcoreapp3.1\ALotOfPractice.deps.json
+C:\Users\ASUS\source\repos\ALotOfPractice\ALotOfPractice\bin\Debug\netcoreapp3.1\ALotOfPractice.runtimeconfig.json
+C:\Users\ASUS\source\repos\ALotOfPractice\ALotOfPractice\bin\Debug\netcoreapp3.1\ALotOfPractice.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\ALotOfPractice\ALotOfPractice\bin\Debug\netcoreapp3.1\ALotOfPractice.dll
+C:\Users\ASUS\source\repos\ALotOfPractice\ALotOfPractice\bin\Debug\netcoreapp3.1\ALotOfPractice.pdb
+C:\Users\ASUS\source\repos\ALotOfPractice\ALotOfPractice\obj\Debug\netcoreapp3.1\ALotOfPractice.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\ALotOfPractice\ALotOfPractice\obj\Debug\netcoreapp3.1\ALotOfPractice.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ALotOfPractice\ALotOfPractice\obj\Debug\netcoreapp3.1\ALotOfPractice.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ALotOfPractice\ALotOfPractice\obj\Debug\netcoreapp3.1\ALotOfPractice.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ALotOfPractice\ALotOfPractice\obj\Debug\netcoreapp3.1\ALotOfPractice.dll
+C:\Users\ASUS\source\repos\ALotOfPractice\ALotOfPractice\obj\Debug\netcoreapp3.1\ALotOfPractice.pdb
+C:\Users\ASUS\source\repos\ALotOfPractice\ALotOfPractice\obj\Debug\netcoreapp3.1\ALotOfPractice.genruntimeconfig.cache

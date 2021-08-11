@@ -1,0 +1,13 @@
+C:\Users\ASUS\source\repos\KKCramerTime\KKCramerTime\bin\Debug\netcoreapp3.1\KKCramerTime.exe
+C:\Users\ASUS\source\repos\KKCramerTime\KKCramerTime\bin\Debug\netcoreapp3.1\KKCramerTime.deps.json
+C:\Users\ASUS\source\repos\KKCramerTime\KKCramerTime\bin\Debug\netcoreapp3.1\KKCramerTime.runtimeconfig.json
+C:\Users\ASUS\source\repos\KKCramerTime\KKCramerTime\bin\Debug\netcoreapp3.1\KKCramerTime.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\KKCramerTime\KKCramerTime\bin\Debug\netcoreapp3.1\KKCramerTime.dll
+C:\Users\ASUS\source\repos\KKCramerTime\KKCramerTime\bin\Debug\netcoreapp3.1\KKCramerTime.pdb
+C:\Users\ASUS\source\repos\KKCramerTime\KKCramerTime\obj\Debug\netcoreapp3.1\KKCramerTime.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\KKCramerTime\KKCramerTime\obj\Debug\netcoreapp3.1\KKCramerTime.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\KKCramerTime\KKCramerTime\obj\Debug\netcoreapp3.1\KKCramerTime.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\KKCramerTime\KKCramerTime\obj\Debug\netcoreapp3.1\KKCramerTime.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\KKCramerTime\KKCramerTime\obj\Debug\netcoreapp3.1\KKCramerTime.dll
+C:\Users\ASUS\source\repos\KKCramerTime\KKCramerTime\obj\Debug\netcoreapp3.1\KKCramerTime.pdb
+C:\Users\ASUS\source\repos\KKCramerTime\KKCramerTime\obj\Debug\netcoreapp3.1\KKCramerTime.genruntimeconfig.cache
